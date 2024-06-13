@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Supabase, Mongodb**
 
 💬 Ask me about **Node.js, HTML, Mongodb... or anything [here](https://github.com/rendirenaldi09/rendirenaldi09/issues)**
 
