@@ -1,4 +1,4 @@
-![logo] (https://github.com/rendirenaldi09/rendirenaldi09/blob/main/Github%20Banner.png)
+![logo](https://github.com/rendirenaldi09/rendirenaldi09/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rendi Renaldi</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
