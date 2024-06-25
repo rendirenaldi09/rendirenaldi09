@@ -28,7 +28,7 @@
   <a href="https://instagram.com/rendii_renaldii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://rendirenaldi.vercel.app" target="_blank">
+  <a href="https://rendiirenaldii-grimzs-projects.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
